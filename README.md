@@ -35,3 +35,7 @@ To get started with this project, follow these steps:
 
    ```sh
    git clone https://github.com/your-username/swift-data-unread-story.git
+
+
+## Medium Article List 
+- https://medium.com/@vishwasng/list/swift-data-a-unread-story-943d9c0304ee
